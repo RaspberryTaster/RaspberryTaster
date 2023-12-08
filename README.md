@@ -1,16 +1,15 @@
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RaspberryTaster/your-repo/main/assets/raspberry-animation.gif" alt="Raspberry Animation" width="300"/>
-  <h1>Welcome to RaspberryTaster's GitHub!</h1>
+  <!-- 3D Profile Card with Purple Color -->
+  <a href="https://github.com/RaspberryTaster">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=RaspberryTaster&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Innovative%20Coder%20&%20Tech%20Enthusiast&descAlignY=51&descAlign=62&color=0:8a2be2,100:8a2be2" alt="RaspberryTaster's Profile Card"/>
+  </a>
 </div>
 
-<p align="center">
-  <i>Growing with each coding adventure</i>
-</p>
 
-<p align="center">
-  <!-- Dynamic Quote -->
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=zues&font=Redressed" alt="GitHub Readme Quotes">
-</p>
+<!-- Other sections of your README -->
+
+
 
 ## About Me 🚀
 
