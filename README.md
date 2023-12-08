@@ -1,8 +1,8 @@
 
 <div align="center">
-  <!-- 3D Profile Card with Purple Color -->
+  <!-- 3D Profile Card -->
   <a href="https://github.com/RaspberryTaster">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=RaspberryTaster&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Innovative%20Coder%20&%20Tech%20Enthusiast&descAlignY=51&descAlign=62&color=0:8a2be2,100:8a2be2" alt="RaspberryTaster's Profile Card"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=RaspberryTaster&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Innovative%20Coder%20&%20Tech%20Enthusiast&descAlignY=51&descAlign=62" alt="RaspberryTaster's Profile Card"/>
   </a>
 </div>
 
