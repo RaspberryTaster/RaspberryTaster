@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <i>Where creativity meets technology. Explore the world of game development, innovative software solutions, and much more!</i>
+  <i>Growing with each coding adventure</i>
 </p>
 
 <p align="center">
