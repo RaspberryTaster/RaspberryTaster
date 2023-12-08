@@ -1,8 +1,8 @@
 
 <div align="center">
-  <!-- 3D Profile Card -->
+  <!-- 3D Profile Card without Subtitle -->
   <a href="https://github.com/RaspberryTaster">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=RaspberryTaster&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Innovative%20Coder%20&%20Tech%20Enthusiast&descAlignY=51&descAlign=62" alt="RaspberryTaster's Profile Card"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=RaspberryTaster&fontSize=90&animation=fadeIn&fontAlignY=50&color=0:D21F3C,100:6A0DAD" alt="RaspberryTaster's Profile Card"/>
   </a>
 </div>
 
