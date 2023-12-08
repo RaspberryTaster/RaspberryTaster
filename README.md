@@ -1,16 +1,32 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RaspberryTaster/your-repo/main/assets/raspberry-animation.gif" alt="Raspberry Animation" width="300"/>
+  <h1>Welcome to RaspberryTaster's GitHub!</h1>
+</div>
 
-<!--
-**RaspberryTaster/RaspberryTaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>Where creativity meets technology. Explore the world of game development, innovative software solutions, and much more!</i>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <!-- Dynamic Quote -->
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=zues&font=Redressed" alt="GitHub Readme Quotes">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me 🚀
+
+🎓 I'm RaspberryTaster, a passionate software developer with a flair for creating immersive experiences through code. My journey includes pathfinding algorithms, GUI experiments, and diving into the realms of AI and ML.
+
+🔭 I’m currently working on:
+- Enhancing my [Live Chat Application](https://github.com/RaspberryTaster/live-chat)
+
+🌱 I’m currently learning:
+- Advanced Machine Learning Techniques
+
+## My Toolbox 🧰
+
+```text
+Vue.js        ████████████████░░   90 %
+C#            ███████████████░░░   85 %
+Python        ████████████░░░░░░   65 %
+Unity         █████████████░░░░░   70 %
+SQL           ████████░░░░░░░░░░   40 %
