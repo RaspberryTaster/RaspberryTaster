@@ -19,4 +19,4 @@
 - Enhancing my [Live Chat Application](https://github.com/RaspberryTaster/live-chat)
 
 🌱 I’m currently learning:
-- Advanced Machine Learning Techniques
+- Ai algorithms
