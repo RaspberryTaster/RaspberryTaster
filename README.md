@@ -15,8 +15,5 @@
 
 🎓 I'm RaspberryTaster, a passionate software developer with a flair for creating immersive experiences through code. My journey includes pathfinding algorithms, GUI experiments, and diving into the realms of AI and ML.
 
-🔭 I’m currently working on:
-- Enhancing my [Live Chat Application](https://github.com/RaspberryTaster/live-chat)
-
 🌱 I’m currently learning:
 - Ai algorithms
