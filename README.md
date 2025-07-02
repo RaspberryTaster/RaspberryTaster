@@ -11,9 +11,6 @@
 
 
 
-## About Me 🚀
+## About Me 
 
-🎓 I'm RaspberryTaster, a passionate software developer with a flair for creating immersive experiences through code. My journey includes pathfinding algorithms, GUI experiments, and diving into the realms of AI and ML.
-
-🌱 I’m currently learning:
-- Ai algorithms
+I'm a programmer with a interest in algorithms
